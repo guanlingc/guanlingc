@@ -10,9 +10,10 @@
 
 
 |Repository Name  |Remarks  |Repostiory Link|
-|-|-|-|
-|AI200 Captsone|First Project, learning python, scikit-learn and training a machine learning model| [AI200 Capstone Repository](https://github.com/guanlingc/AI200_Capstone.git)|
-|AI300 Captsone|Second Project, learning to deploy a machine learning model onto cloud  |[AI300 Capstone Repository](https://github.com/guanlingc/AI300_Capstone.git)|
+|-----------------|---------|---------------|
+|AI200 Captsone|First Project, learning python, scikit-learn and training a machine learning model| [AI200 Capstone](https://github.com/guanlingc/AI200_Capstone.git)|
+|AI300 Captsone|Second Project, learning to deploy a machine learning model onto cloud  |[AI300 Capstone](https://github.com/guanlingc/AI300_Capstone.git)|
+|100 days of python by angela yu|This course been reviewed to be awesome, so i decided to give it a try!|[100 Days of Python](https://github.com/guanlingc/100_days_of_python_by_angela_yu)|
 
 
 This is a work in progress!! 
