@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guan Ling and welcome to my github portfolio!!
-- 👀 I’m interested in continuous learning, self-improvement and experiences.
-- 🌱 I’m currently learning about machine learning and this is a diary on the work i have done.
+- 👀 My interests lies in continuous learning and self-improvement. 
+- 🌱 As the coding becomes more and more important in the current era. I decided to get my hands dirty and try some of that coding and machine learning. 
 
 
 
@@ -13,11 +13,12 @@
 |-----------------|---------|---------------|
 |AI200 Captsone|First Project, learning python, scikit-learn and training a machine learning model| [AI200 Capstone](https://github.com/guanlingc/AI200_Capstone.git)|
 |AI300 Captsone|Second Project, learning to deploy a machine learning model onto cloud  |[AI300 Capstone](https://github.com/guanlingc/AI300_Capstone.git)|
+|hyperparameter_tuning_attempt| hyperparameter tuning was introduced in AI300 Capstone as a optional component | [hyperparameter_tuning](https://github.com/guanlingc/hyperparameter_tuning_attempt)|
 |100 days of python by Angela Yu|This course been reviewed to be awesome, so i decided to give it a try! Good opportuniy to polish up my foundations as well |[100 Days of Python](https://github.com/guanlingc/100_days_of_python_by_angela_yu)|
 
 
-This is a work in progress!! 
-Thank you for taking the time to look through this portfolio!!
+As usual, this is a work in progress!! (as with the never-ending change of technology and learning) 
+Thank you for taking the time to look through my portfolio!!
 
 
  Have a good day!! 
