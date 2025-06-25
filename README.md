@@ -15,7 +15,7 @@
 |AI300 Captsone|Second Project, learning to deploy a machine learning model onto cloud  |[AI300 Capstone](https://github.com/guanlingc/AI300_Capstone.git)|
 |Hyperparameter Tuning Attempt| hyperparameter tuning was introduced in AI300 Capstone as a optional component, using gridSearch and RandomSearch | [hyperparameter_tuning](https://github.com/guanlingc/hyperparameter_tuning_attempt)|
 |Cross Validation Attempt| Learning about how to valid model perform by using K-Fold Validation | [Cross-Validation](https://github.com/guanlingc/cross_validation_attempt)|
-|CS50| Getting to know more about Computer Science in this popular cousrse by Harvard University, taught by David Malan| [CS50]([https://github.com/guanlingc/cross_validation_attempt](https://github.com/guanlingc/cs50.git))|
+|CS50| Getting to know more about Computer Science in this popular cousrse by Harvard University, taught by David Malan| [CS50](https://github.com/guanlingc/cs50.git)|
 |Streamlit Data Viewer|Quick Data viewer using pandas, plotly and streamlit|[Data Viewer](https://github.com/guanlingc/data_viewer)|  
 |100 days of python by Angela Yu|This course been reviewed to be awesome, so i decided to give it a try! Good opportuniy to polish up my foundations as well |[100 Days of Python](https://github.com/guanlingc/100_days_of_python_by_angela_yu)|
 
